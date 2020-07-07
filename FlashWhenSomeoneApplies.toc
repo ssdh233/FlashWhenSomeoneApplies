@@ -1,0 +1,7 @@
+## Interface: 50001
+## Title: Flash the client icon when someone applies
+## Author: ssdh233
+## Version: 1.0
+
+main.lua
+
